@@ -40,7 +40,7 @@
 * [The official router for Vue.js](https://github.com/vuejs/vue-router)
 * [Vuejs & SPA](https://medium.com/kode-dan-kodean/mencoba-belajar-framework-vue-js-dan-spa-nya-7c65c7513ffe)
 * [Vue Native is a framework to build cross platform native mobile apps using JavaScript](https://github.com/GeekyAnts/vue-native-core)
-* [https://github.com/shentao/vue-multiselect](https://github.com/GeekyAnts/vue-native-core)
+* [vue multiselect](https://github.com/GeekyAnts/vue-native-core)
 
 
 ### react
